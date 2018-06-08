@@ -4,4 +4,4 @@ CREATE TABLE series (
   author TEXT,
   subgenre, TEXT,
   
-)
+);
